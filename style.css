@@ -150,3 +150,10 @@ a.anc_contato{
     text-decoration: none;
     color: black;
 }
+
+a.anc_contato:hover{
+    color: rgb(68, 64, 64);
+}
+a.anc_contato:visited{
+    color: cadetblue;
+}
