@@ -113,7 +113,7 @@ img#dev{
     margin: 70px auto -50px auto;
     /*a imagem fica mais centralizada*/
     display: block;
-    width: 57%; 
+    /*width: 57%;  -------TESTADO COM %------*/ 
     
 }
 
@@ -141,6 +141,7 @@ main#maincontato{
 
 #imgcontato{
      margin-left: 120px;
+     display: block;
      width: 45%;
 }
 
