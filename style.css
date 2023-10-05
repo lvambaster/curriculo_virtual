@@ -93,14 +93,18 @@ div.seçao1 {
     float: left;   
     padding: 50px;
 } 
+p#paragrafo_home{
+    font-family: var(--font-padrao);
+}
             
 h1.titulo{
     font-size: 40px;
     padding: 20px;
     font-family: var(--font-destak);
 }
-
+/*Este em muda o home e o contato*/
 em{
+    -webkit-text-stroke: 0.5 --cor2;
     color: var(--cor3);
     font-weight: bolder;
 }
